@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/code">
+        <file>worker.cpp</file>
+    </qresource>
+</RCC>
